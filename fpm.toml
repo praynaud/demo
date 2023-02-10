@@ -1,0 +1,12 @@
+name = "demo"
+version = "0.1.0"
+license = "license"
+author = "Joseph Messina"
+maintainer = "joseph.messina@nrc.gov"
+copyright = "Copyright 2023, Joseph Messina"
+[build]
+auto-executables = true
+auto-tests = true
+auto-examples = true
+[install]
+library = false
